@@ -1,0 +1,7 @@
+{
+    "require": {
+        "chillerlan/php-qrcode": "^5.0",
+        "dsiddharth2/php-zxing" : " 1.0.3 ",
+        "zxing/qr-reader":"2.0"
+    }
+}
