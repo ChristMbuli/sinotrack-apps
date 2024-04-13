@@ -10,5 +10,5 @@
         integrity="sha384-0pUGZvbkm6XF6gxjEnlmuGrJXVbNuzT9qBBavbLwCsOGabYfZo0T0to5eqruptLy" crossorigin="anonymous">
     </script>
     <script src="https://kit.fontawesome.com/e147eaff6b.js" crossorigin="anonymous"></script>
-    <title>SinoTeack</title>
+    <title>SOMIREP</title>
 </head>
