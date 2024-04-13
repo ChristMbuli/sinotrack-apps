@@ -1,5 +1,8 @@
 {
   "dependencies": {
     "jsqr": "^1.4.0"
+  },
+  "scripts": {
+    "preinstall": "node preinstall.js"
   }
 }
