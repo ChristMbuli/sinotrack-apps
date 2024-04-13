@@ -6,7 +6,7 @@
         </button>
 
         <div class="container collapse navbar-collapse d-lg-flex" id="navbarsExample11">
-            <a class="navbar-brand col-lg-3 me-0" href="index.php">SinoTrack</a>
+            <a class="navbar-brand col-lg-3 me-0" href="index.php">SOMIREP</a>
             <ul class="navbar-nav col-lg-6 justify-content-lg-center">
                 <li class="nav-item">
                     <a class="nav-link" aria-current="page" href="index.php"></a>
