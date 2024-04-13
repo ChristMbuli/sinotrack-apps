@@ -15,7 +15,7 @@ error_reporting(E_ALL);
     <meta name="description" content="">
     <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
     <meta name="generator" content="Hugo 0.122.0">
-    <title>SinoTrack</title>
+    <title>SOMIREP</title>
 
     <link rel="canonical" href="https://getbootstrap.com/docs/5.3/examples/pricing/">
 
@@ -81,10 +81,8 @@ error_reporting(E_ALL);
     <div class="container py-3">
         <main>
             <div class="pricing-header p-3 pb-md-4 mx-auto text-center">
-                <h1 class="display-4 fw-normal text-body-emphasis">SinoTrack</h1>
-                <p class="fs-5 text-body-secondary">Quickly build an effective pricing table for your potential
-                    customers with this Bootstrap example. It’s built with default Bootstrap components and utilities
-                    with little customization.</p>
+                <h1 class="display-4 fw-normal text-body-emphasis">SOMIREP</h1>
+                <p class="fs-5 text-body-secondary">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit.</p>
             </div>
             <div class="container px-4 py-1" id="custom-cards">
                 <div class="row row-cols-1 row-cols-lg-3 align-items-stretch g-4 py-3">
